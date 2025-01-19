@@ -40,5 +40,5 @@ def parse_category():
         page_number += 1
         time.sleep(1)
 
-    print("Парсинг окончен.")
+    print("Парсинг окончен")
     return parsed_items
